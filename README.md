@@ -3,7 +3,7 @@
 
 Contenido del directorio:
 
-![Deploy](tree.png)
+![Tree](tree.png)
 
 
 Para desplegar el docker-compose se deben seguir los siguientes pasos:
