@@ -22,4 +22,4 @@ Para el uninstall de la app y los volúmenes simplemente se debe ejecutar el sig
 ```bash   
    docker-compose -f docker-compose.yml --env-file .env down -v     
 ```   
-   ![Uninstall](uninstall.png)   <br><br><br><br>  
+   ![Uninstall](uninstall.png)   <br><br><br><br><br><br><br><br>  
