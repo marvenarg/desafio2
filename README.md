@@ -8,11 +8,11 @@ Para desplegar el docker-compose se deben seguir los siguientes pasos:
 ```bash
     docker-compose -f docker-compose.yml --env-file .env up -d
     
-    \!\[Deploy](deploy.png)
+    ![Deploy](deploy.png)
     
 
 Para el uninstall simplemente se debe ejecutar el siguiente comando:
 
     docker-compose -f docker-compose.yml --env-file .env down -v
 
-    \!\[Uninstall](uninstall.png)     
+    ![Uninstall](uninstall.png)     
