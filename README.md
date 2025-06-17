@@ -1,6 +1,5 @@
 # Desafio 1 del curso DevOps
 
-
 Contenido del directorio:
 
 ![Tree](tree.png)
