@@ -3,17 +3,7 @@
 
 Contenido del directorio:
 
-.
-├── deploy.png
-├── docker-compose.yml
-├── README.md
-├── uninstall.png
-└── webapp
-    ├── db-init
-    │   └── init.sql
-    ├── Dockerfile
-    ├── index.php
-    └── style.css
+![Deploy](tree.png)
 
 
 Para desplegar el docker-compose se deben seguir los siguientes pasos:
