@@ -1,5 +1,4 @@
-# Desafio 2 del Modulo 4 - Bootcamp Devops Engineer EducacionIT
-
+# Desafio 2 del Modulo 4 - Bootcamp Devops Engineer
 Contenido del directorio:
 
 ![Tree](tree.png)
