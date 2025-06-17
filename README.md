@@ -1,4 +1,4 @@
-# Desafio 1 del curso DevOps
+# Desafio 2 del curso DevOps
 
 Contenido del directorio:
 
