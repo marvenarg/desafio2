@@ -1,0 +1,28 @@
+services:
+  db:
+    container_name: devops1-db
+    env_file: .env
+    image: mariadb:11.8.2
+    ports:
+    - 3307:3306
+    restart: always
+    volumes:
+    - ./webapp/db-init:/docker-entrypoint-initdb.d
+    - dbdata:/var/lib/mysql
+  web:
+    build: ./webapp
+    image: app-web:v1.0
+    pull_policy: never
+    container_name: devops1-web
+    environment:
+      - MYSQL_HOST=db
+      - MYSQL_DATABASE=${MYSQL_DATABASE}
+      - MYSQL_USER=${MYSQL_USER}
+      - MYSQL_PASSWORD=${MYSQL_PASSWORD}
+    depends_on:
+    - db
+    ports:
+    - 8080:80
+    restart: always
+volumes:
+  dbdata: null
