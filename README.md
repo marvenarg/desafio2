@@ -4,7 +4,7 @@ Contenido del directorio:
 ![Tree](tree.png)
 
 
-Nota: Link de la imagen tagueada en dockerhub  https://hub.docker.com/repository/docker/mysven/php82-apache-tools/general
+El link de la imagen tagueada en dockerhub es la siguiente:  https://hub.docker.com/repository/docker/mysven/php82-apache-tools/general
 
 
 Para desplegar el docker-compose se deben seguir los siguientes pasos:
