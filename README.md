@@ -1,4 +1,4 @@
-# Desafio 2 del curso DevOps
+# Desafio 2 del Modulo 4 - Curso DevOps de EducacionIT
 
 Contenido del directorio:
 
