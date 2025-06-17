@@ -1,0 +1,6 @@
+#.env
+*.zip
+*.tar.gz
+*.tar.bz2
+#dbdata/
+
