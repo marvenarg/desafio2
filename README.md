@@ -1,4 +1,4 @@
-# Desafio 2 del Modulo 4 - Curso DevOps de EducacionIT
+# Desafio 2 del Modulo 4 - Bootcamp Devops Engineer de EducacionIT
 
 Contenido del directorio:
 
