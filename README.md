@@ -1,7 +1,7 @@
 # Desafio 2 del Modulo 4 - Bootcamp Devops Engineer <br><br>
 Contenido del directorio:
 
-![Tree](tree.png)
+![Tree](tree.png) <br>
 
 
 El link de la imagen tagueada en dockerhub es la siguiente:  https://hub.docker.com/repository/docker/mysven/php82-apache-tools/general
