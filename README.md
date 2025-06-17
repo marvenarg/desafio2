@@ -4,7 +4,7 @@ Para desplegar el docker-compose se deben seguir los siguientes pasos:
 
 1 - Editar las variables de entorno del archivo .env con los datos deseados (por ejemplo las contraseñas de la DB)
 
-2 - construir la app se debe ejecutar lo siguiente:
+2 - Para construir la app se debe ejecutar lo siguiente:
 
    docker-compose -f docker-compose.yml --env-file .env up -d  
    
