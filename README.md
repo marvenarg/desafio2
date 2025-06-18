@@ -12,10 +12,10 @@ El link de la imagen tagueada en dockerhub es la siguiente:  https://hub.docker.
 1 - Editar las variables de entorno del archivo .env con los datos deseados (por ejemplo las contraseñas de los usuarios de la DB) <br><br>
 
 ```bash
-1. MYSQL_ROOT_PASSWORD=password_root
-2. MYSQL_DATABASE=nombre_db
-3. MYSQL_USER=usuario_db
-4. MYSQL_PASSWORD=password_usuario_db
+1.   MYSQL_ROOT_PASSWORD=password_root
+2.   MYSQL_DATABASE=nombre_db
+3.   MYSQL_USER=usuario_db
+4.   MYSQL_PASSWORD=password_usuario_db
 ```
 <br><br><br>
 
