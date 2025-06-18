@@ -17,7 +17,7 @@ El link de la imagen tagueada en dockerhub es la siguiente:  https://hub.docker.
 3. MYSQL_USER=usuario_db
 4. MYSQL_PASSWORD=password_usuario_db
 ```
-<br><br><br><br>
+<br><br><br>
 
 2 - Para construir la app se debe ejecutar el siguiente comando:
 ```bash
