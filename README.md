@@ -17,7 +17,7 @@ El link de la imagen tagueada en la registry de dockerhub es la siguiente:  http
    MYSQL_USER=usuario_db
    MYSQL_PASSWORD=password_usuario_db
 ```
-<br><br><br>
+<br><br>
 
 2 - Para construir la app se debe ejecutar el siguiente comando:
 ```bash
