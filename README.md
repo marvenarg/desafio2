@@ -4,7 +4,7 @@
 ![Tree](tree.png) <br>
 
 
-El link de la imagen tagueada en la registry de dockerhub es la siguiente:  https://hub.docker.com/repository/docker/mysven/php82-apache-tools/general <br><br><br>
+El link de la imagen tagueada en la registry de dockerhub es la siguiente:  https://hub.docker.com/r/mysven/php82-apache-tools <br><br><br>
 
 
 ### Para desplegar el docker-compose se deben seguir los siguientes pasos: <br><br>
